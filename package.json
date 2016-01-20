@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tjwebb/pg-json-data-export.git"
+    "url": "https://github.com/adamastern/pg-json-data-export.git"
   },
   "keywords": [
     "postgres",
@@ -23,9 +23,9 @@
   "author": "Travis Webb <me@traviswebb.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tjwebb/pg-json-data-export/issues"
+    "url": "https://github.com/adamastern/pg-json-data-export/issues"
   },
-  "homepage": "https://github.com/tjwebb/pg-json-data-export",
+  "homepage": "https://github.com/adamastern/pg-json-data-export",
   "devDependencies": {
     "mocha": "^1.21.4"
   },
